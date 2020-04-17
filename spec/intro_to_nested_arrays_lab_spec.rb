@@ -1,3 +1,4 @@
+require 'pry'
 require 'spec_helper'
 
 mixed_data_1 = [
